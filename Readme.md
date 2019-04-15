@@ -49,8 +49,11 @@ Local url : http://localhost:8080
 ## Built With and Token Information
 
 ERC-721 Token Name : ScientistZ Token
+
 ERC-721 Token Symbol : SCI
+
 Token Address on Rinkeby : https://rinkeby.etherscan.io/token/0xA067EC8c3284DdbF36Dc50E6aB9aa85f6ae7F50F
+
 
 - [Truffle](https://truffleframework.com/) - v5.0.12 (core: 5.0.12) - As a development framework
 - [truffle-hdwallet-provider](https://github.com/trufflesuite/truffle-hdwallet-provider) - 1.0.2 - Provider to communicate
