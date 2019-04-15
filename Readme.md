@@ -42,6 +42,13 @@ On second terminal
 npm run dev
 ```
 
+if you are getting errors about webpack then please run below command:
+
+
+```sh
+npm install -g webpack-dev-server
+```
+
 Server is configured to run by default on port: 8080
 Local url : http://localhost:8080
 
@@ -58,7 +65,7 @@ Token Address on Rinkeby : https://rinkeby.etherscan.io/token/0xA067EC8c3284DdbF
 - [Truffle](https://truffleframework.com/) - v5.0.12 (core: 5.0.12) - As a development framework
 - [truffle-hdwallet-provider](https://github.com/trufflesuite/truffle-hdwallet-provider) - 1.0.2 - Provider to communicate
 - [openzeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity) - 2.1.2 - For using ERC 721 contracts
-- [nodejs] - 10.14.1 - Server which is used to run app
+- [nodejs](https://nodejs.org/en/) - 10.14.1 - Server which is used to run app
     
 ## Versioning
 
