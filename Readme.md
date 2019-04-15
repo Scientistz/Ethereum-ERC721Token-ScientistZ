@@ -66,6 +66,7 @@ Token Address on Rinkeby : https://rinkeby.etherscan.io/token/0xA067EC8c3284DdbF
 - [truffle-hdwallet-provider](https://github.com/trufflesuite/truffle-hdwallet-provider) - 1.0.2 - Provider to communicate
 - [openzeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity) - 2.1.2 - For using ERC 721 contracts
 - [nodejs](https://nodejs.org/en/) - 10.14.1 - Server which is used to run app
+- [webpack-dev-server](https://webpack.js.org/configuration/dev-server/) -  is used to develop the front end application
     
 ## Versioning
 
